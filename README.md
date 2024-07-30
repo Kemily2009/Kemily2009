@@ -1,16 +1,13 @@
-## Hi there 👋
+# boas vinda ao meu perfil 😻 🔥
 
-<!--
-**Kemily2009/Kemily2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.meu nome e kemily
 
-Here are some ideas to get you started:
+.estou estudando alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.estudo no 1 ano do ensino medio 
+
+.meu inta @kemilysophy
+
+![](https://media.tenor.com/aPgTU-Z9j1MAAAAM/funny-dogs-cute.gif)
+
+![](https://media.tenor.com/3qFgYyQVCzIAAAAM/lenakos-dog.gif)
